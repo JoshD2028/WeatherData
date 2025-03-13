@@ -1,0 +1,124 @@
+2025-03-11T14:28:34 -  - DEBUG - ecbuild project(eccodes) 
+2025-03-11T14:28:38 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T14:28:38 - eccodes - DEBUG - Environment:
+2025-03-11T14:28:38 - eccodes - DEBUG - ---------------------------------------------------------
+
+2025-03-11T14:28:38 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T14:28:38 - eccodes - INFO - ecbuild   3.9.1	C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake
+2025-03-11T14:28:38 - eccodes - INFO - cmake     3.30.5	C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe
+2025-03-11T14:28:38 - eccodes - INFO - ---------------------------------------------------------
+2025-03-11T14:28:38 - eccodes - DEBUG - ecbuild_compiler_flags(CXX): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_CXX.cmake 
+2025-03-11T14:28:38 - eccodes - DEBUG - CMAKE_CXX_FLAGS : /DWIN32 /D_WINDOWS /W3 /GR /EHsc
+2025-03-11T14:28:38 - eccodes - DEBUG - CMAKE_CXX_FLAGS_NONE : 
+2025-03-11T14:28:38 - eccodes - DEBUG - CMAKE_CXX_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T14:28:38 - eccodes - DEBUG - CMAKE_CXX_FLAGS_BIT : 
+2025-03-11T14:28:38 - eccodes - DEBUG - CMAKE_CXX_FLAGS_PRODUCTION : 
+2025-03-11T14:28:38 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T14:28:38 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T14:28:42 - eccodes - DEBUG - ecbuild_compiler_flags(C): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_C.cmake 
+2025-03-11T14:28:42 - eccodes - DEBUG - CMAKE_C_FLAGS : /DWIN32 /D_WINDOWS /W3
+2025-03-11T14:28:42 - eccodes - DEBUG - CMAKE_C_FLAGS_NONE : 
+2025-03-11T14:28:42 - eccodes - DEBUG - CMAKE_C_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T14:28:42 - eccodes - DEBUG - CMAKE_C_FLAGS_BIT : 
+2025-03-11T14:28:42 - eccodes - DEBUG - CMAKE_C_FLAGS_PRODUCTION : 
+2025-03-11T14:28:42 - eccodes - DEBUG - CMAKE_C_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T14:28:42 - eccodes - DEBUG - CMAKE_C_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T14:28:49 - eccodes - WARNING - ENABLE_LARGE_FILE_SUPPORT active, sizeof off_t is 4 < 8  but ecbuild does not know how to enable large files in this operating system
+2025-03-11T14:28:49 - eccodes - WARNING - CMake doesn't support symlinks on Windows.  Replacing all symlinks with copies.
+2025-03-11T14:28:50 - eccodes - DEBUG - Windows Replace Symlinks res=[127]  output=[] error=[/bin/bash: line 1: C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/ecbuild_windows_replace_symlinks.sh: No such file or directory
+]
+2025-03-11T14:28:50 - eccodes - FATAL_ERROR - Failed to replace windows symlinks. output=[] error=[/bin/bash: line 1: C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/ecbuild_windows_replace_symlinks.sh: No such file or directory
+]
+2025-03-11T14:28:56 -  - DEBUG - ecbuild project(eccodes) 
+2025-03-11T14:28:56 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T14:28:56 - eccodes - DEBUG - Environment:
+2025-03-11T14:28:56 - eccodes - DEBUG - ---------------------------------------------------------
+
+2025-03-11T14:28:56 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T14:28:56 - eccodes - INFO - ecbuild   3.9.1	C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake
+2025-03-11T14:28:56 - eccodes - INFO - cmake     3.30.5	C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe
+2025-03-11T14:28:56 - eccodes - INFO - ---------------------------------------------------------
+2025-03-11T14:28:56 - eccodes - DEBUG - ecbuild_compiler_flags(CXX): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_CXX.cmake 
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_CXX_FLAGS : /DWIN32 /D_WINDOWS /W3 /GR /EHsc
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_CXX_FLAGS_NONE : 
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_CXX_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_CXX_FLAGS_BIT : 
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_CXX_FLAGS_PRODUCTION : 
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T14:28:56 - eccodes - DEBUG - ecbuild_compiler_flags(C): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_C.cmake 
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_C_FLAGS : /DWIN32 /D_WINDOWS /W3
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_C_FLAGS_NONE : 
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_C_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_C_FLAGS_BIT : 
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_C_FLAGS_PRODUCTION : 
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_C_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T14:28:56 - eccodes - DEBUG - CMAKE_C_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T14:28:56 - eccodes - WARNING - ENABLE_LARGE_FILE_SUPPORT active, sizeof off_t is 4 < 8  but ecbuild does not know how to enable large files in this operating system
+2025-03-11T14:28:56 - eccodes - WARNING - CMake doesn't support symlinks on Windows.  Replacing all symlinks with copies.
+2025-03-11T14:28:56 - eccodes - DEBUG - Windows Replace Symlinks res=[127]  output=[] error=[/bin/bash: line 1: C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/ecbuild_windows_replace_symlinks.sh: No such file or directory
+]
+2025-03-11T14:28:56 - eccodes - FATAL_ERROR - Failed to replace windows symlinks. output=[] error=[/bin/bash: line 1: C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/ecbuild_windows_replace_symlinks.sh: No such file or directory
+]
+2025-03-11T23:51:10 -  - DEBUG - ecbuild project(eccodes) 
+2025-03-11T23:51:10 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T23:51:10 - eccodes - DEBUG - Environment:
+2025-03-11T23:51:10 - eccodes - DEBUG - ---------------------------------------------------------
+
+2025-03-11T23:51:10 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T23:51:10 - eccodes - INFO - ecbuild   3.9.1	C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake
+2025-03-11T23:51:10 - eccodes - INFO - cmake     3.30.5	C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe
+2025-03-11T23:51:10 - eccodes - INFO - ---------------------------------------------------------
+2025-03-11T23:51:10 - eccodes - DEBUG - ecbuild_compiler_flags(CXX): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_CXX.cmake 
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_CXX_FLAGS : /DWIN32 /D_WINDOWS /W3 /GR /EHsc
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_CXX_FLAGS_NONE : 
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_CXX_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_CXX_FLAGS_BIT : 
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_CXX_FLAGS_PRODUCTION : 
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T23:51:10 - eccodes - DEBUG - ecbuild_compiler_flags(C): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_C.cmake 
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_C_FLAGS : /DWIN32 /D_WINDOWS /W3
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_C_FLAGS_NONE : 
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_C_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_C_FLAGS_BIT : 
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_C_FLAGS_PRODUCTION : 
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_C_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T23:51:10 - eccodes - DEBUG - CMAKE_C_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T23:51:10 - eccodes - WARNING - ENABLE_LARGE_FILE_SUPPORT active, sizeof off_t is 4 < 8  but ecbuild does not know how to enable large files in this operating system
+2025-03-11T23:51:10 - eccodes - WARNING - CMake doesn't support symlinks on Windows.  Replacing all symlinks with copies.
+2025-03-11T23:51:19 - eccodes - DEBUG - Windows Replace Symlinks res=[127]  output=[] error=[/bin/bash: line 1: C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/ecbuild_windows_replace_symlinks.sh: No such file or directory
+]
+2025-03-11T23:51:19 - eccodes - CRITICAL - Failed to replace windows symlinks.  output=[] error=[/bin/bash: line 1: C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/ecbuild_windows_replace_symlinks.sh: No such file or directory
+]
+2025-03-11T23:51:19 -  - DEBUG - ecbuild project(eccodes) 
+2025-03-11T23:51:19 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T23:51:19 - eccodes - DEBUG - Environment:
+2025-03-11T23:51:19 - eccodes - DEBUG - ---------------------------------------------------------
+
+2025-03-11T23:51:19 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T23:51:19 - eccodes - INFO - ecbuild   3.9.1	C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake
+2025-03-11T23:51:19 - eccodes - INFO - cmake     3.30.5	C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe
+2025-03-11T23:51:19 - eccodes - INFO - ---------------------------------------------------------
+2025-03-11T23:51:20 - eccodes - DEBUG - ecbuild_compiler_flags(CXX): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_CXX.cmake 
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_CXX_FLAGS : /DWIN32 /D_WINDOWS /W3 /GR /EHsc
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_CXX_FLAGS_NONE : 
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_CXX_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_CXX_FLAGS_BIT : 
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_CXX_FLAGS_PRODUCTION : 
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T23:51:20 - eccodes - DEBUG - ecbuild_compiler_flags(C): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_C.cmake 
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_C_FLAGS : /DWIN32 /D_WINDOWS /W3
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_C_FLAGS_NONE : 
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_C_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_C_FLAGS_BIT : 
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_C_FLAGS_PRODUCTION : 
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_C_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T23:51:20 - eccodes - DEBUG - CMAKE_C_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T23:51:20 - eccodes - WARNING - ENABLE_LARGE_FILE_SUPPORT active, sizeof off_t is 4 < 8  but ecbuild does not know how to enable large files in this operating system
+2025-03-11T23:51:20 - eccodes - WARNING - CMake doesn't support symlinks on Windows.  Replacing all symlinks with copies.
+2025-03-11T23:51:20 - eccodes - DEBUG - Windows Replace Symlinks res=[127]  output=[] error=[/bin/bash: line 1: C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/ecbuild_windows_replace_symlinks.sh: No such file or directory
+]
+2025-03-11T23:51:20 - eccodes - CRITICAL - Failed to replace windows symlinks.  output=[] error=[/bin/bash: line 1: C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/ecbuild_windows_replace_symlinks.sh: No such file or directory
+]
