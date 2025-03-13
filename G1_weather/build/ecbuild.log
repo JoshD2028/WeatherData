@@ -1,0 +1,117 @@
+2025-03-11T14:15:52 -  - DEBUG - ecbuild project(eccodes) 
+2025-03-11T14:15:58 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T14:15:58 - eccodes - DEBUG - Environment:
+2025-03-11T14:15:58 - eccodes - DEBUG - ---------------------------------------------------------
+
+2025-03-11T14:15:58 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T14:15:58 - eccodes - INFO - ecbuild   3.9.1	C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake
+2025-03-11T14:15:58 - eccodes - INFO - cmake     3.30.5	C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe
+2025-03-11T14:15:58 - eccodes - INFO - ---------------------------------------------------------
+2025-03-11T14:15:58 - eccodes - DEBUG - ecbuild_compiler_flags(CXX): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_CXX.cmake 
+2025-03-11T14:15:58 - eccodes - DEBUG - CMAKE_CXX_FLAGS : /DWIN32 /D_WINDOWS /W3 /GR /EHsc
+2025-03-11T14:15:58 - eccodes - DEBUG - CMAKE_CXX_FLAGS_NONE : 
+2025-03-11T14:15:58 - eccodes - DEBUG - CMAKE_CXX_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T14:15:58 - eccodes - DEBUG - CMAKE_CXX_FLAGS_BIT : 
+2025-03-11T14:15:58 - eccodes - DEBUG - CMAKE_CXX_FLAGS_PRODUCTION : 
+2025-03-11T14:15:58 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T14:15:58 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T14:16:02 - eccodes - DEBUG - ecbuild_compiler_flags(C): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_C.cmake 
+2025-03-11T14:16:02 - eccodes - DEBUG - CMAKE_C_FLAGS : /DWIN32 /D_WINDOWS /W3
+2025-03-11T14:16:02 - eccodes - DEBUG - CMAKE_C_FLAGS_NONE : 
+2025-03-11T14:16:02 - eccodes - DEBUG - CMAKE_C_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T14:16:02 - eccodes - DEBUG - CMAKE_C_FLAGS_BIT : 
+2025-03-11T14:16:02 - eccodes - DEBUG - CMAKE_C_FLAGS_PRODUCTION : 
+2025-03-11T14:16:02 - eccodes - DEBUG - CMAKE_C_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T14:16:02 - eccodes - DEBUG - CMAKE_C_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T14:16:10 - eccodes - WARNING - ENABLE_LARGE_FILE_SUPPORT active, sizeof off_t is 4 < 8  but ecbuild does not know how to enable large files in this operating system
+2025-03-11T14:16:10 - eccodes - WARNING - CMake doesn't support symlinks on Windows.  Replacing all symlinks with copies.
+2025-03-11T14:16:10 - eccodes - DEBUG - Windows Replace Symlinks res=[1]  output=[Windows Subsystem for Linux has no installed distributions.
+You can resolve this by installing a distribution with the instructions below:
+
+Use 'wsl.exe --list --online' to list available distributions
+and 'wsl.exe --install <Distro>' to install.
+] error=[]
+2025-03-11T14:16:10 - eccodes - FATAL_ERROR - Failed to replace windows symlinks. output=[Windows Subsystem for Linux has no installed distributions.
+You can resolve this by installing a distribution with the instructions below:
+
+Use 'wsl.exe --list --online' to list available distributions
+and 'wsl.exe --install <Distro>' to install.
+] error=[]
+2025-03-11T14:16:17 -  - DEBUG - ecbuild project(eccodes) 
+2025-03-11T14:16:17 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T14:16:17 - eccodes - DEBUG - Environment:
+2025-03-11T14:16:17 - eccodes - DEBUG - ---------------------------------------------------------
+
+2025-03-11T14:16:17 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T14:16:17 - eccodes - INFO - ecbuild   3.9.1	C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake
+2025-03-11T14:16:17 - eccodes - INFO - cmake     3.30.5	C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe
+2025-03-11T14:16:17 - eccodes - INFO - ---------------------------------------------------------
+2025-03-11T14:16:17 - eccodes - DEBUG - ecbuild_compiler_flags(CXX): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_CXX.cmake 
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_CXX_FLAGS : /DWIN32 /D_WINDOWS /W3 /GR /EHsc
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_CXX_FLAGS_NONE : 
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_CXX_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_CXX_FLAGS_BIT : 
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_CXX_FLAGS_PRODUCTION : 
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T14:16:17 - eccodes - DEBUG - ecbuild_compiler_flags(C): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_C.cmake 
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_C_FLAGS : /DWIN32 /D_WINDOWS /W3
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_C_FLAGS_NONE : 
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_C_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_C_FLAGS_BIT : 
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_C_FLAGS_PRODUCTION : 
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_C_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T14:16:17 - eccodes - DEBUG - CMAKE_C_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T14:16:17 - eccodes - WARNING - ENABLE_LARGE_FILE_SUPPORT active, sizeof off_t is 4 < 8  but ecbuild does not know how to enable large files in this operating system
+2025-03-11T14:16:17 - eccodes - WARNING - CMake doesn't support symlinks on Windows.  Replacing all symlinks with copies.
+2025-03-11T14:16:17 - eccodes - DEBUG - Windows Replace Symlinks res=[1]  output=[Windows Subsystem for Linux has no installed distributions.
+You can resolve this by installing a distribution with the instructions below:
+
+Use 'wsl.exe --list --online' to list available distributions
+and 'wsl.exe --install <Distro>' to install.
+] error=[]
+2025-03-11T14:16:17 - eccodes - FATAL_ERROR - Failed to replace windows symlinks. output=[Windows Subsystem for Linux has no installed distributions.
+You can resolve this by installing a distribution with the instructions below:
+
+Use 'wsl.exe --list --online' to list available distributions
+and 'wsl.exe --install <Distro>' to install.
+] error=[]
+2025-03-11T14:16:26 -  - DEBUG - ecbuild project(eccodes) 
+2025-03-11T14:16:26 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T14:16:26 - eccodes - DEBUG - Environment:
+2025-03-11T14:16:26 - eccodes - DEBUG - ---------------------------------------------------------
+
+2025-03-11T14:16:26 - eccodes - DEBUG - ---------------------------------------------------------
+2025-03-11T14:16:26 - eccodes - INFO - ecbuild   3.9.1	C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake
+2025-03-11T14:16:26 - eccodes - INFO - cmake     3.30.5	C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe
+2025-03-11T14:16:26 - eccodes - INFO - ---------------------------------------------------------
+2025-03-11T14:16:26 - eccodes - DEBUG - ecbuild_compiler_flags(CXX): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_CXX.cmake 
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_CXX_FLAGS : /DWIN32 /D_WINDOWS /W3 /GR /EHsc
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_CXX_FLAGS_NONE : 
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_CXX_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_CXX_FLAGS_BIT : 
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_CXX_FLAGS_PRODUCTION : 
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_CXX_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T14:16:26 - eccodes - DEBUG - ecbuild_compiler_flags(C): try include C:/Users/denti/Weather_Data_For_Research/G1_weather/eccodes-2.40.0-Source/cmake/compiler_flags/MSVC_C.cmake 
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_C_FLAGS : /DWIN32 /D_WINDOWS /W3
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_C_FLAGS_NONE : 
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_C_FLAGS_DEBUG : /MDd /Zi /Ob0 /Od /RTC1
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_C_FLAGS_BIT : 
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_C_FLAGS_PRODUCTION : 
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_C_FLAGS_RELEASE : /MD /O2 /Ob2 /DNDEBUG
+2025-03-11T14:16:26 - eccodes - DEBUG - CMAKE_C_FLAGS_RELWITHDEBINFO : /MD /Zi /O2 /Ob1 /DNDEBUG
+2025-03-11T14:16:26 - eccodes - WARNING - ENABLE_LARGE_FILE_SUPPORT active, sizeof off_t is 4 < 8  but ecbuild does not know how to enable large files in this operating system
+2025-03-11T14:16:26 - eccodes - WARNING - CMake doesn't support symlinks on Windows.  Replacing all symlinks with copies.
+2025-03-11T14:16:27 - eccodes - DEBUG - Windows Replace Symlinks res=[1]  output=[Windows Subsystem for Linux has no installed distributions.
+You can resolve this by installing a distribution with the instructions below:
+
+Use 'wsl.exe --list --online' to list available distributions
+and 'wsl.exe --install <Distro>' to install.
+] error=[]
+2025-03-11T14:16:27 - eccodes - FATAL_ERROR - Failed to replace windows symlinks. output=[Windows Subsystem for Linux has no installed distributions.
+You can resolve this by installing a distribution with the instructions below:
+
+Use 'wsl.exe --list --online' to list available distributions
+and 'wsl.exe --install <Distro>' to install.
+] error=[]
